@@ -47,9 +47,9 @@ const styles = StyleSheet.create({
   },
   successText: {
     fontSize: 20,
-    fontWeight: '700',
+    fontWeight: '600',
     color: '#002859',
-    fontFamily: 'Mulish-Regular'
+    fontFamily: 'Mulish-Bold'
   },
   infoText: {
     fontSize: 14,

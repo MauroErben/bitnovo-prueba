@@ -53,8 +53,8 @@ const styles = StyleSheet.create({
   },
   inputTextStyle: {
     fontSize: 40,
-    fontWeight: '700',
-    fontFamily: 'Mulish-Regular',
+    fontWeight: '600',
+    fontFamily: 'Mulish-Bold',
     color: '#035AC5'
   }
 })

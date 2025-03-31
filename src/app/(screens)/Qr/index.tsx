@@ -10,7 +10,6 @@ import { router, useLocalSearchParams } from 'expo-router'
 import QRCode from 'react-native-qrcode-svg';
 
 const InfoCircle = require('../../../../assets/images/info-circle.png')
-const BitNovo = require('../../../../assets/images/bitnovo-pay-icon.png')
 
 const QrScreen = () => {
 
@@ -53,7 +52,7 @@ const QrScreen = () => {
         >
           <QRCode
             size={252}
-            logo={BitNovo}
+            logo={{ uri: 'https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_31a3526cb38fad8dd57c7fb048cd612a/2ac15b89-e00f-4edb-a712-bb11baedc184.png' }}
             logoSize={60}
             value={web_url.toString()}
           />
@@ -111,8 +110,8 @@ const styles = StyleSheet.create({
   },
   textAmount: {
     fontSize: 26,
-    fontFamily: 'Mulish-Regular',
-    fontWeight: '700',
+    fontFamily: 'Mulish-Bold',
+    fontWeight: '600',
     color: '#FFFFFF',
   },
   textInfo: {

@@ -75,10 +75,10 @@ const styles = StyleSheet.create({
     gap: 2,
   },
   title: {
-    fontWeight: '700',
+    fontWeight: '600',
     color: '#002859',
     fontSize: 14,
-    fontFamily: 'Mulish-Regular',
+    fontFamily: 'Mulish-Bold',
   },
   abreviation: {
     fontWeight: '400',

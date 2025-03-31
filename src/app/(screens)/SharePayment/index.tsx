@@ -227,8 +227,8 @@ const styles = StyleSheet.create({
   textButtonSend: {
     color: '#FFFFFF',
     fontSize: 12,
-    fontFamily: 'Mulish-Regular',
-    fontWeight: '700',
+    fontFamily: 'Mulish-Bold',
+    fontWeight: '600',
   },
   selectorContainer: {
     flexDirection: 'row',

@@ -12,6 +12,8 @@ export default function RootLayout() {
 
   const [loaded] = useFonts({
     "Mulish-Regular": require("../../assets/fonts/Mulish-Regular.ttf"),
+    "Mulish-SemiBold": require("../../assets/fonts/Mulish-SemiBold.ttf"),
+    "Mulish-Bold": require("../../assets/fonts/Mulish-Bold.ttf"),
   });
 
   useEffect(() => {

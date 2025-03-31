@@ -71,6 +71,7 @@ const styles = StyleSheet.create({
   textButton: {
     fontSize: 16,
     fontWeight: '600',
+    fontFamily: 'Mulish-Regular'
   }
 })
 

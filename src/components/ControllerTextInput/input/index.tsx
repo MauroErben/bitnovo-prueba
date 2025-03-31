@@ -41,11 +41,11 @@ const styles = StyleSheet.create({
     gap: 8
   },
   label: {
-    fontWeight: '700',
+    fontWeight: '600',
     fontSize: 14,
     letterSpacing: 1,
     color: '#002859',
-    fontFamily: 'Mulish-Regular',
+    fontFamily: 'Mulish-Bold',
   },
   input: {
     borderWidth: 1,

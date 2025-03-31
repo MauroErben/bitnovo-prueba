@@ -105,8 +105,8 @@ const style = StyleSheet.create({
   title: {
     color: '#002859',
     fontSize: 18,
-    fontWeight: '700',
-    fontFamily: 'Mulish-Regular',
+    fontWeight: '600',
+    fontFamily: 'Mulish-Bold'
   }
 })
 

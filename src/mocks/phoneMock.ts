@@ -1,8 +1,8 @@
 export const PHONE_MOCK = [
   {
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png',
-    name: '+54',
-    symbol: 'Argentina'
+    name: '+34',
+    symbol: 'España'
   },
   {
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/2560px-Flag_of_Equatorial_Guinea.svg.png',

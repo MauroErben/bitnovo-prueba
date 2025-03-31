@@ -14,7 +14,7 @@ const getApi = async ({
   query = '',
 }: IApiProps) => {
   try {
-    const XDeviceId = 'd497719b-905f-4a41-8dbe-cf124c442f42';
+    const XDeviceId = process.env.EXPO_PUBLIC_DEVICE_ID;
     const response = await api({
       method,
       headers: {

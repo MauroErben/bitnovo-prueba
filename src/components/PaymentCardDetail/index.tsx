@@ -46,19 +46,19 @@ const styles = StyleSheet.create({
     gap: 12,
   },
   title: {
-    fontFamily: 'Milish-Regular',
+    fontFamily: 'Mulish-Regular',
     fontSize: 14,
     fontWeight: '400',
     color: '#647184'
   },
   amountText: {
-    fontFamily: 'Milish-Regular',
+    fontFamily: 'Mulish-Regular',
     fontSize: 30,
-    fontWeight: '700',
+    fontWeight: '600',
     color: '#002859'
   },
   shareClientText: {
-    fontFamily: 'Milish-Regular',
+    fontFamily: 'Mulish-Regular',
     fontSize: 12,
     fontWeight: '400',
     color: '#647184'
